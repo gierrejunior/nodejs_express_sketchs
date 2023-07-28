@@ -1,0 +1,14 @@
+alguns comandos SQL
+
+COMANDOS SQL:
+
+SHOW DATABASES;
+
+CREATE DATABASE sistemaDeCadastro; 
+
+USE sistemadecadastro -> ENTRA NO NOVO BD CRIADO
+
+	DENTRO DE UM DATABASE
+		
+		SHOW TABLES;   -> MOSTRA AS TABELAS QUE EXISTEM
+		DESCRIBE usuarios;

@@ -1,6 +1,6 @@
 usando o framework express
     * Rotas
-        rotas sãos osa caminhos para as aplicações
+        rotas sãos os diversos caminhos para as aplicações
     * O exrpress é um framework orientado a rota
         ou seja toda a sua aplicação vai ser baseada na estrutura de rotas
 
