@@ -4,7 +4,7 @@ const app = express() // iniciando express
 
 
 app.get("/", function(req, res){
-    res.send("Bem vindo ao meu aplicativo") 
+    res.send("Bem vindo ao meu aplicativo!!!!!") 
 })
 
 app.get("/blog", function(req,res){
